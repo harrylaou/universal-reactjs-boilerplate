@@ -7,7 +7,7 @@
     "build": "NODE_ENV=production webpack --progress --color -p --config webpack.prod.config.js"
   },
   "author": "ReactJS Academy",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "dependencies": {
     "axios": "^0.13.1",
     "es6-promise": "^3.2.1",
