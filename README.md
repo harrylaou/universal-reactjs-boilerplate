@@ -1,4 +1,4 @@
-# isomorphic-react-boilerplate
+# Universal ReactJS boilerplate
 
 ## Exercises:
 
