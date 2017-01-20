@@ -9,7 +9,7 @@
     "build": "npm run build:server && npm run build:client"
   },
   "author": "Alex Lobera",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.13.1",
     "body-parser": "^1.15.2",
