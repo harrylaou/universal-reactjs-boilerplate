@@ -1,7 +1,8 @@
-import React from 'react';
+import React     from 'react';
 import { Route } from 'react-router';
 import App from './components/App';
 import Page from './components/Page';
+import Photos from './components/Photos';
 
 export default (
   <Route>
