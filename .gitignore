@@ -1,8 +1,4 @@
-# node modules
 node_modules/
-
-# build
 dist/
-
-# logs
 *.log
+yarn.lock

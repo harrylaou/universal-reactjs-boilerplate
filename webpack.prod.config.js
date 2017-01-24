@@ -1,7 +1,7 @@
-import webpack from 'webpack';
-import base from './webpack.base';
+import webpack from 'webpack'
+import base from './webpack.base'
 
-base.devtool = 'source-map';
+base.devtool = 'source-map'
 base.plugins = base.plugins.concat([
   new webpack.optimize.UglifyJsPlugin({
       comments: false
@@ -11,6 +11,6 @@ base.plugins = base.plugins.concat([
       NODE_ENV: "'production'"
     }
   })
-]);
+])
 
-export default base;
+export default base
