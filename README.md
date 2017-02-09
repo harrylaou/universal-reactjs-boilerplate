@@ -6,7 +6,7 @@
 
 2. Change server/app.jsx so it renders the React components
 
-3. Change server/app.jsx so it sends the JavaScript bundle
+3. Change server/app.jsx so it sends the JavaScript bundle to the client. Hint, Webpack is not creating a file on the disk so don't search for a bundle.js file in your disk. Webpack is generating and serving the file from memory (so it's faster).
 
 4. Add a new route called 'photos' that mapps the Photos component
 
