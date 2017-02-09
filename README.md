@@ -1,3 +1,3 @@
 # Universal ReactJS boilerplate
 
-This repo is a simple boilerplate to create isomorphic React apps. Use the master branch to start your isomorphic React app.
+This repository is a simple boilerplate to create universal React apps. Use the master branch to start your universal React app.
