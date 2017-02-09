@@ -2,7 +2,7 @@
 
 ## Exercises:
 
-1. Fix the script `start` so we can execute `npm start` from the terminal  
+1. Fix the script `start` so we can execute `npm start` from the terminal. Hint, which file is the entry point?  
 
 2. Change server/app.jsx so it renders the React components
 
